@@ -1,0 +1,17 @@
+# Fdb version 4
+["dvipdf"] 0 "yobaimura_test.dvi" "yobaimura_test.pdf" "yobaimura_test" 0 -1
+  "yobaimura_test.dvi" 0 -1 0 "latex"
+  (generated)
+  "yobaimura_test.pdf"
+  (rewritten before read)
+["latex"] 1777717002.87238 "yobaimura_test.tex" "yobaimura_test.dvi" "yobaimura_test" 1777717003.00238 2
+  "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
+  "/usr/local/texlive/2025/texmf-var/web2c/euptex/uplatex.fmt" 1767024323 2371281 520891f585a5e0d3caa0ff0dc3c14a77 ""
+  "/usr/local/texlive/2025/texmf.cnf" 1767023119 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "yobaimura_test.aux" 1777716950 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "yobaimura_test.tex" 1777716996.60094 154 87bdb5c392eddceb178d0774f2529a27 ""
+  (generated)
+  "yobaimura_test.aux"
+  "yobaimura_test.dvi"
+  "yobaimura_test.log"
+  (rewritten before read)

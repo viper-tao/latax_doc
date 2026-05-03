@@ -1,0 +1,37 @@
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.12.29)  2 MAY 2026 10:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**yobaimura_test.tex
+(./yobaimura_test.tex
+pLaTeX2e <2023-02-14u04>+1, based on
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 目
+        次
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.1 目
+        次
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 469647
+ 453 string characters out of 5471263
+ 426575 words of memory out of 5000000
+ 28902 multiletter control sequences out of 15000+600000
+ 630362 words of font info for 58 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 15i,0n,23p,61b,18s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
